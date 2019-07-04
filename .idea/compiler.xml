@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="com.taragana.DataExtractor.main" target="1.8" />
+      <module name="com.taragana.DataExtractor.test" target="1.8" />
+      <module name="com.taragana.nclt.DataExtractor.main" target="1.8" />
+      <module name="com.taragana.nclt.DataExtractor.test" target="1.8" />
+      <module name="DataExtractor_main" target="1.8" />
+      <module name="DataExtractor_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
